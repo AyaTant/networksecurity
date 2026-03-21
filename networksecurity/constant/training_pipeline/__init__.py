@@ -42,6 +42,7 @@ DATA_TRANSFORMATION_DIR_NAME: str="data_transformation"
 DATA_TRANSFORMATION_TRANSFORMED_DATA_DIR: str="transformed"
 DATA_TRANSFORMATION_TRANSFORMED_OBJECT_DIR: str="transformed_object"
 
+# knn 
 DATA_TRANSFORMED_IMPUTER_PARAMS: dict={
     "missing_values":np.nan,
     "n_neighors":3,
