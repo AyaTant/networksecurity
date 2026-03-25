@@ -27,3 +27,9 @@
 [2026-03-25 20:40:54,586] 48 root - INFO -Exited the save_object method of MainUtils class
 [2026-03-25 20:40:54,589] 63 root - INFO -Data Transformation completed and artifact :DataTransformationArtifact(transformed_object_file_path='Artifacts\\03_25_2026_20_39_51\\transformed\\transformed_object\\preprocessing.pkl', transformed_train_file_path='Artifacts\\03_25_2026_20_39_51\\transformed\\train.npy', transformed_test_file_path='Artifacts\\03_25_2026_20_39_51\\transformed\\transformed\\test.npy')
 [2026-03-25 20:40:54,589] 71 root - INFO -Model Training started
+[2026-03-25 21:01:36,831] 44 root - INFO -Entered the save_object method of MainUtils class
+[2026-03-25 21:01:36,844] 48 root - INFO -Exited the save_object method of MainUtils class
+[2026-03-25 21:01:36,845] 44 root - INFO -Entered the save_object method of MainUtils class
+[2026-03-25 21:01:37,540] 48 root - INFO -Exited the save_object method of MainUtils class
+[2026-03-25 21:01:37,558] 122 root - INFO -Model trainer artifact: ModelTrainerArtifact(trained_model_file_path='Artifacts\\03_25_2026_20_39_51\\model_trainer\\trained_model\\model.pkl', train_metric_artifact=ClassificationMetricArtifact(f1_score=0.9913521212737817, precision_score=0.9884357881923311, recall_score=0.9942857142857143), test_metric_artifact=ClassificationMetricArtifact(f1_score=0.9717918156535558, precision_score=0.9706349206349206, recall_score=0.9729514717581543))
+[2026-03-25 21:01:37,718] 76 root - INFO -Model Training Completed
