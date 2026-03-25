@@ -1,0 +1,6 @@
+[2026-03-25 19:37:55,506] 1025 httpx - INFO -HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-03-25 19:37:55,526] 107 dagshub - INFO -Accessing as AyaTant
+[2026-03-25 19:37:56,375] 1025 httpx - INFO -HTTP Request: GET https://dagshub.com/api/v1/repos/AyaTant/networksecurity "HTTP/1.1 200 OK"
+[2026-03-25 19:37:57,141] 1025 httpx - INFO -HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-03-25 19:37:57,144] 107 dagshub - INFO -Initialized MLflow to track repo "AyaTant/networksecurity"
+[2026-03-25 19:37:57,146] 107 dagshub - INFO -Repository AyaTant/networksecurity initialized!
